@@ -4,7 +4,7 @@ Simple mobile text entry interface based on device's directional motion.
 <!-- ABOUT THE PROJECT -->
 ## Demo of the implementation
 
-[![Link to the Demo]](https://drive.google.com/file/d/1Q_k_zn8cHJOkrOJ-bx3SLaQYBko7nsJ9/view?usp=sharing)
+[Link to the Demo](https://drive.google.com/file/d/1Q_k_zn8cHJOkrOJ-bx3SLaQYBko7nsJ9/view?usp=sharing)
 
 
 <!-- GETTING STARTED -->
@@ -32,4 +32,5 @@ In this application a single axis value of the gyroscope is considered (Z axis).
 ## References
 
 1. https://www.analog.com/en/app-notes/an-1057.html (Used this to get basic information on tilt detection.)
+2. [UndoRedo android sdk library](https://github.com/Arowa-Z/TextUndoRedo)
 
